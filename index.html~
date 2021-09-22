@@ -192,18 +192,12 @@
                         <div class="video-card">
                            <div class="video-card-image">
                               <a class="play-icon" href="#"><i class="fas fa-play-circle"></i></a>
-                              <a href="#"><img class="img-fluid" src="img/v1.png" alt=""></a>
+                              <a href="#"><img class="img-fluid" src="img/tenet.jpg" alt=""></a>
                               <div class="time">3:50</div>
                            </div>
                            <div class="video-card-body">
                               <div class="video-title">
-                                 <a href="#">There are many variations of passages of Lorem</a>
-                              </div>
-                              <div class="video-page text-success">
-                                 Education  <a title="" data-placement="top" data-toggle="tooltip" href="#" data-original-title="Verified"><i class="fas fa-check-circle text-success"></i></a>
-                              </div>
-                              <div class="video-view">
-                                 1.8M views &nbsp;<i class="fas fa-calendar-alt"></i> 11 Months ago
+                                 <h2>Tenet</h2>
                               </div>
                            </div>
                         </div>
@@ -212,18 +206,12 @@
                         <div class="video-card">
                            <div class="video-card-image">
                               <a class="play-icon" href="#"><i class="fas fa-play-circle"></i></a>
-                              <a href="#"><img class="img-fluid" src="img/v2.png" alt=""></a>
+                              <a href="#"><img class="img-fluid" src="img/dune.png" alt=""></a>
                               <div class="time">3:50</div>
                            </div>
                            <div class="video-card-body">
                               <div class="video-title">
-                                 <a href="#">There are many variations of passages of Lorem</a>
-                              </div>
-                              <div class="video-page text-success">
-                                 Education  <a title="" data-placement="top" data-toggle="tooltip" href="#" data-original-title="Verified"><i class="fas fa-check-circle text-success"></i></a>
-                              </div>
-                              <div class="video-view">
-                                 1.8M views &nbsp;<i class="fas fa-calendar-alt"></i> 11 Months ago
+                                 <h2>Dune</h2>
                               </div>
                            </div>
                         </div>
